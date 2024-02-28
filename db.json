@@ -1,0 +1,35 @@
+{
+  "todos": [
+    {
+      "id": "63da7b2d-8ed0-4468-b104-8bb36cdf52bf",
+      "title": "Vagatables",
+      "description": "potato, tomatodwqd"
+    },
+    {
+      "id": "2f85fb59-8ebd-4eb1-b0eb-dc24a036f858",
+      "title": "Fruits",
+      "description": "apple,banana"
+    },
+    {
+      "id": "0cb0dfd4-b22f-4e0d-bdc1-95d9181fd9e4",
+      "title": "Juise",
+      "description": "cola,fanta"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "858a8440-55b0-40d5-895a-c49b5bcec03b",
+      "date": "2024-02-18",
+      "description1": "Записаться на английский",
+      "description2": "Пойти в спортзал",
+      "description3": "Прочитать книгу"
+    },
+    {
+      "id": "f04445c6-e688-4f91-8cd9-07e0d769a711",
+      "date": "2024-02-10",
+      "description1": "Прочитать книгу",
+      "description2": "bfgbfgbg",
+      "description3": "dwqdwqddw"
+    }
+  ]
+}
